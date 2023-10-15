@@ -8,4 +8,4 @@ app = Flask(__name__)
 def index():
     # Obtenir la date actuelle
     today = datetime.date.today()
-    return render_template("index.html", today)
+    return render_template("index.html", today=today)
