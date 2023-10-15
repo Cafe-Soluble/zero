@@ -1,0 +1,1 @@
+Repository with files to start a new project from scratch
